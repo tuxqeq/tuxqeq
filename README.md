@@ -2,7 +2,8 @@
 - 18 y.o.
 - Studying in: PJATK Warsaw, 1 year, Computer Science
 - Contact info:
-  - tg: @tuxqeq
+  - telegram: @tuxqeq
+  - email: tuxqeq@gmail.com
 
 <!---
 tuxqeq/tuxqeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
