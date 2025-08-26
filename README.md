@@ -1,6 +1,6 @@
 - Arseny
-- 18 y.o.
-- Studying in: PJATK Warsaw, 2 year bachelor degree, Computer Science
+- 19 y.o.
+- Studying in: PJATK Warsaw, bachelor degree, Computer Science
 - Contact info:
   - telegram: @tuxqeq
   - email: tuxqeq@gmail.com
